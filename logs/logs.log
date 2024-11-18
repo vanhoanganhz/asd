@@ -1,0 +1,14 @@
+2024-11-18 10:40:00.698 | INFO     | __main__:run:130 - Loaded +- 4 proxies per account
+
+
+2024-11-18 10:40:03.704 | INFO     | __main__:process_multiple_farming:67 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-18 10:40:11.717 | INFO     | __main__:process_multiple_farming:71 - Active accounts: 1
+2024-11-18 10:40:11.717 | ERROR    | __main__:process_multiple_farming:76 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-18 10:40:11.717 | INFO     | __main__:process_multiple_farming:80 - Active accounts: 0
+2024-11-18 10:43:36.307 | INFO     | __main__:run:130 - Loaded +- 4 proxies per account
+
+
+2024-11-18 10:43:39.312 | INFO     | __main__:process_multiple_farming:67 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-18 10:43:45.322 | INFO     | __main__:process_multiple_farming:71 - Active accounts: 1
+2024-11-18 10:43:45.322 | ERROR    | __main__:process_multiple_farming:76 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-18 10:43:45.322 | INFO     | __main__:process_multiple_farming:80 - Active accounts: 0

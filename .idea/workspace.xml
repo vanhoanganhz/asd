@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="534463e0-2496-4d22-8eb4-9f1efe560a61" name="Changes" comment="asd">
+      <change afterPath="$PROJECT_DIR$/.idea/Gradient-reworked.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gradient-reworked.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/data/farm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/data/multiple_proxies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/data/proxies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/data/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/data/verify.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/node_credentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/console/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/console/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/captcha/capsolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/exceptions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/exceptions/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/websocket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/logs.2024-11-10_20-56-26_213288.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/logs.2024-11-13_03-09-37_542382.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/logs.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/config1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/config/data/farm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/config/data/multiple_proxies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/config/data/proxies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/config/data/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/config/data/verify.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/config/node_credentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/config/settings.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/logs/logs.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/run.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/registration_failed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/registration_success.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/verification_failed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/verification_success.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/file_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/imap_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/load_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/messages_generator.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vanhoanganhz/asd.git",
+    "accountId": "83fba8a8-5945-4230-a599-dbe5b5c776c7"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oRDcwUDct34I1lBeel9YGKzN80" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.api.executor": "Debug",
+    "Python.bot.executor": "Debug",
+    "Python.capsolver.executor": "Coverage",
+    "Python.config1.executor": "Run",
+    "Python.file_utils.executor": "Run",
+    "Python.load_config.executor": "Run",
+    "Python.loader.executor": "Run",
+    "Python.run.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Code/Gradient-reworked",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Gradient-reworked" />
+      <recent name="D:\Code\Gradient-reworked\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Gradient-reworked" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="534463e0-2496-4d22-8eb4-9f1efe560a61" name="Changes" comment="" />
+      <created>1730823578380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730823578380</updated>
+      <workItem from="1730823580535" duration="2768000" />
+      <workItem from="1730891342050" duration="3770000" />
+      <workItem from="1730912363448" duration="5499000" />
+      <workItem from="1730993916590" duration="1549000" />
+      <workItem from="1730995816970" duration="749000" />
+      <workItem from="1731051929782" duration="255000" />
+      <workItem from="1731052218426" duration="612000" />
+      <workItem from="1731052845279" duration="2284000" />
+      <workItem from="1731243762685" duration="9000" />
+      <workItem from="1731243784034" duration="12769000" />
+      <workItem from="1731261672540" duration="2404000" />
+      <workItem from="1731330373977" duration="61000" />
+      <workItem from="1731330457498" duration="2064000" />
+      <workItem from="1731440179327" duration="103000" />
+      <workItem from="1731440732966" duration="86000" />
+      <workItem from="1731440956106" duration="6000" />
+      <workItem from="1731441015836" duration="185000" />
+      <workItem from="1731441993249" duration="1373000" />
+      <workItem from="1731520453107" duration="519000" />
+      <workItem from="1731521108348" duration="618000" />
+      <workItem from="1731900795006" duration="1041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="asd" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Gradient_reworked$config1.coverage" NAME="config1 Coverage Results" MODIFIED="1731442904983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/Gradient_reworked$bot.coverage" NAME="bot Coverage Results" MODIFIED="1731260158698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/Gradient_reworked$api.coverage" NAME="api Coverage Results" MODIFIED="1731260234282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/Gradient_reworked$run.coverage" NAME="run Coverage Results" MODIFIED="1731260367087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

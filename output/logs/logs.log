@@ -1,0 +1,33 @@
+2024-11-13 02:42:41.156 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-13 02:42:44.171 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-13 02:42:54.185 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-13 02:42:54.186 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-13 02:42:54.186 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-13 02:43:14.385 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-13 02:43:23.390 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-13 02:43:23.390 | INFO     | core.bot:process_login:88 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-13 02:43:23.878 | INFO     | core.bot:process_login:90 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-13 02:43:23.880 | ERROR    | core.bot:process_farming:66 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: [Errno 2] No such file or directory: './config/node_credentials.json' | Stopped
+2024-11-13 02:43:23.880 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-13 02:44:25.581 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-13 02:44:31.593 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-13 02:44:31.594 | INFO     | core.bot:process_login:88 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-13 02:44:32.078 | INFO     | core.bot:process_login:90 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-13 02:44:32.081 | ERROR    | core.bot:process_register_node:150 - Account: vanhoanganh.24@gmail.com | Failed to register node: 'Bot' object has no attribute 'register_node' | Stopped farming
+2024-11-13 02:44:32.081 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-13 02:54:09.829 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-13 02:54:12.839 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-13 02:54:21.851 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-13 02:54:21.851 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-13 02:54:21.852 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-13 03:30:23.059 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-13 03:30:26.071 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-13 03:30:33.083 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-13 03:30:33.083 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-13 03:30:33.084 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0

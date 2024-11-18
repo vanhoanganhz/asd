@@ -1,0 +1,389 @@
+2024-11-10 20:56:31.362 | ERROR    | core.auth:manual_login:111 - Authentication failed: Incorrect username or password
+2024-11-10 20:56:53.883 | ERROR    | core.auth:manual_login:111 - Authentication failed: Incorrect username or password
+2024-11-10 20:57:25.068 | ERROR    | core.auth:manual_login:111 - Authentication failed: Incorrect username or password
+2024-11-10 21:00:17.177 | DEBUG    | __main__:<module>:169 - An error occurred: name 'ClientAuth' is not defined
+2024-11-10 21:03:36.286 | INFO     | __main__:process_farming:42 - Account: test@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 21:05:00.049 | INFO     | __main__:run:115 - Loaded +- 1 proxies per account
+
+
+2024-11-10 21:05:03.064 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-10 21:05:11.079 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:05:11.079 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:05:11.080 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:05:25.472 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:05:31.486 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:05:31.486 | INFO     | core.bot:process_login:95 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 21:05:31.991 | INFO     | core.bot:process_login:97 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:05:31.994 | ERROR    | core.bot:process_farming:71 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-10 21:05:31.994 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:06:12.770 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-10 21:06:21.766 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:06:21.766 | INFO     | core.bot:process_login:95 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 21:06:22.423 | INFO     | core.bot:process_login:97 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:06:22.423 | ERROR    | core.bot:process_farming:71 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-10 21:06:22.423 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:06:54.848 | INFO     | __main__:process_verify_accounts:31 - Account: test@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:07:00.862 | INFO     | core.bot:process_login:95 - Account: test@gmail.com | Logging in... 
+2024-11-10 21:07:01.948 | ERROR    | core.bot:process_login:100 - Account: test@gmail.com | API returned an error: {'error': {'code': 400, 'message': 'INVALID_LOGIN_CREDENTIALS', 'errors': [{'message': 'INVALID_LOGIN_CREDENTIALS', 'domain': 'global', 'reason': 'invalid'}]}} | 
+2024-11-10 21:07:01.954 | DEBUG    | utils.file_utils:export_results:37 - Results exported to results folder
+2024-11-10 21:07:18.486 | INFO     | __main__:process_registration:20 - Account: test@gmail.com | Sleeping for 5 seconds before starting...
+2024-11-10 21:07:23.501 | INFO     | utils.imap_utils:check_if_email_valid:12 - Account: test@gmail.com | Checking if email is valid...
+2024-11-10 21:07:24.191 | ERROR    | utils.imap_utils:check_if_email_valid:17 - Account: test@gmail.com | Email is invalid (IMAP): Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+2024-11-10 21:07:24.191 | DEBUG    | utils.file_utils:export_results:37 - Results exported to results folder
+2024-11-10 21:07:34.048 | INFO     | __main__:process_export_statistics:79 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-10 21:07:42.061 | INFO     | core.bot:process_login:95 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 21:07:42.736 | INFO     | core.bot:process_login:97 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:07:43.016 | SUCCESS  | core.bot:process_get_user_info:108 - Account: vanhoanganh.24@gmail.com | User info fetched
+2024-11-10 21:07:43.016 | DEBUG    | utils.file_utils:export_statistics:94 - Exporting statistics to CSV file...
+2024-11-10 21:07:43.016 | DEBUG    | utils.file_utils:export_statistics:98 - Export completed successfully.
+2024-11-10 21:09:05.636 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:09:11.638 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:09:11.638 | INFO     | core.bot:process_login:95 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 21:09:12.142 | INFO     | core.bot:process_login:97 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:09:12.144 | ERROR    | core.bot:process_farming:71 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-10 21:09:12.144 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:12:08.148 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:12:11.157 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:12:17.171 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:12:17.171 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:12:17.172 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:13:21.955 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-10 21:13:30.970 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:13:30.970 | INFO     | core.bot:process_login:95 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 21:13:32.141 | INFO     | core.bot:process_login:97 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:13:32.141 | ERROR    | core.bot:process_farming:71 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-10 21:13:32.141 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:13:42.906 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:13:45.911 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-10 21:13:52.922 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:13:52.922 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:13:52.922 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:14:47.045 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:14:50.047 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:14:56.060 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:14:56.060 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:14:56.061 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:17:17.439 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:17:20.438 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 21:17:30.445 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:17:30.445 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:17:30.445 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:18:48.282 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:18:51.297 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-10 21:19:00.298 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:19:00.298 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:19:00.299 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:19:04.458 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 21:19:14.455 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:19:14.455 | INFO     | core.bot:process_login:95 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 21:19:14.975 | INFO     | core.bot:process_login:97 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:19:14.975 | ERROR    | core.bot:process_farming:71 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-10 21:19:14.977 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:20:13.908 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 21:20:23.912 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:20:23.912 | INFO     | core.bot:process_login:95 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 21:20:24.346 | INFO     | core.bot:process_login:97 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:20:24.348 | ERROR    | core.bot:process_farming:71 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-10 21:20:24.348 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:21:31.522 | DEBUG    | __main__:run:132 - An error occurred: 
+2024-11-10 21:23:29.555 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:23:32.564 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 21:23:42.578 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:23:42.578 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:23:42.578 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:24:12.428 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-10 21:24:20.438 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:24:20.438 | DEBUG    | core.bot:__init__:18 - Bot initialized with account: vanhoanganh.24@gmail.com
+2024-11-10 21:24:20.438 | DEBUG    | core.bot:process_farming:79 - Account: vanhoanganh.24@gmail.com | Starting farming process
+2024-11-10 21:24:20.439 | DEBUG    | core.bot:perform_farming_actions:181 - Account: vanhoanganh.24@gmail.com | Starting farming actions
+2024-11-10 21:24:20.439 | DEBUG    | core.bot:process_login:109 - Account: vanhoanganh.24@gmail.com | Logging in with proxy: None
+2024-11-10 21:24:20.843 | INFO     | core.bot:process_login:112 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:24:20.843 | ERROR    | core.bot:perform_farming_actions:194 - Account: vanhoanganh.24@gmail.com | Farming actions failed: Expecting value: line 2 column 1 (char 1)
+2024-11-10 21:24:20.843 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:27:46.594 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:27:49.625 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:27:55.641 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:27:55.641 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:27:55.641 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:28:02.070 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-10 21:28:10.084 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:28:10.084 | DEBUG    | core.bot:__init__:18 - Bot initialized with account: vanhoanganh.24@gmail.com
+2024-11-10 21:28:10.084 | DEBUG    | core.bot:process_farming:79 - Account: vanhoanganh.24@gmail.com | Starting farming process
+2024-11-10 21:28:10.084 | DEBUG    | core.bot:perform_farming_actions:181 - Account: vanhoanganh.24@gmail.com | Starting farming actions
+2024-11-10 21:28:10.084 | DEBUG    | core.bot:process_login:109 - Account: vanhoanganh.24@gmail.com | Logging in with proxy: None
+2024-11-10 21:28:10.592 | INFO     | core.bot:process_login:112 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:28:10.594 | ERROR    | core.bot:perform_farming_actions:194 - Account: vanhoanganh.24@gmail.com | Farming actions failed: Expecting value: line 2 column 1 (char 1)
+2024-11-10 21:28:10.594 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:28:47.779 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 21:28:57.778 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:28:57.778 | DEBUG    | core.bot:__init__:18 - Bot initialized with account: vanhoanganh.24@gmail.com
+2024-11-10 21:28:57.778 | DEBUG    | core.bot:process_farming:79 - Account: vanhoanganh.24@gmail.com | Starting farming process
+2024-11-10 21:28:57.778 | DEBUG    | core.bot:perform_farming_actions:181 - Account: vanhoanganh.24@gmail.com | Starting farming actions
+2024-11-10 21:28:57.779 | DEBUG    | core.bot:process_login:109 - Account: vanhoanganh.24@gmail.com | Logging in with proxy: None
+2024-11-10 21:28:58.194 | INFO     | core.bot:process_login:112 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:28:58.195 | ERROR    | core.bot:perform_farming_actions:194 - Account: vanhoanganh.24@gmail.com | Farming actions failed: Expecting value: line 2 column 1 (char 1)
+2024-11-10 21:28:58.196 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:30:50.413 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 21:31:00.423 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:31:00.423 | DEBUG    | core.bot:__init__:18 - Bot initialized with account: vanhoanganh.24@gmail.com
+2024-11-10 21:31:00.423 | DEBUG    | core.bot:process_farming:79 - Account: vanhoanganh.24@gmail.com | Starting farming process
+2024-11-10 21:31:00.424 | DEBUG    | core.bot:perform_farming_actions:181 - Account: vanhoanganh.24@gmail.com | Starting farming actions
+2024-11-10 21:31:00.424 | DEBUG    | core.bot:process_login:109 - Account: vanhoanganh.24@gmail.com | Logging in with proxy: None
+2024-11-10 21:31:00.865 | INFO     | core.bot:process_login:112 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:31:00.865 | ERROR    | core.bot:perform_farming_actions:194 - Account: vanhoanganh.24@gmail.com | Farming actions failed: Expecting value: line 2 column 1 (char 1)
+2024-11-10 21:31:00.865 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:33:23.374 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:33:26.390 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:33:32.407 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:33:32.407 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:33:32.407 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:36:40.337 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:36:46.360 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:36:46.360 | DEBUG    | core.bot:__init__:18 - Bot initialized with account: vanhoanganh.24@gmail.com
+2024-11-10 21:36:46.360 | DEBUG    | core.bot:process_farming:79 - Account: vanhoanganh.24@gmail.com | Starting farming process
+2024-11-10 21:36:46.360 | DEBUG    | core.bot:perform_farming_actions:181 - Account: vanhoanganh.24@gmail.com | Starting farming actions
+2024-11-10 21:36:46.360 | DEBUG    | core.bot:process_login:109 - Account: vanhoanganh.24@gmail.com | Logging in with proxy: None
+2024-11-10 21:36:46.939 | INFO     | core.bot:process_login:112 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 21:36:46.939 | ERROR    | core.bot:perform_farming_actions:194 - Account: vanhoanganh.24@gmail.com | Farming actions failed: Expecting value: line 2 column 1 (char 1)
+2024-11-10 21:36:46.939 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:39:43.391 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:39:46.408 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-10 21:39:53.423 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:39:53.423 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:39:53.423 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:40:28.148 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-10 21:40:37.156 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:40:37.156 | ERROR    | core.bot:process_farming:61 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: 'Bot' object has no attribute 'perform_farming_actions' | Stopped
+2024-11-10 21:40:37.156 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 21:41:03.192 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:41:06.198 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 21:41:12.209 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:41:12.209 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:41:12.209 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:44:50.835 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 5 seconds before starting...
+2024-11-10 21:44:57.447 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 21:45:00.454 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-10 21:45:08.455 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 21:45:08.455 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 21:45:08.456 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 21:47:20.576 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-10 21:47:27.578 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 21:47:27.579 | ERROR    | core.bot:process_farming:61 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: 'Bot' object has no attribute 'perform_farming_actions' | Stopped
+2024-11-10 21:47:27.579 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 22:21:31.926 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-10 22:21:39.938 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 22:21:39.938 | ERROR    | core.bot:process_farming:61 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: 'Bot' object has no attribute 'perform_farming_actions' | Stopped
+2024-11-10 22:21:39.938 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 22:21:49.827 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 5 seconds before starting...
+2024-11-10 22:21:54.828 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 22:21:54.828 | ERROR    | core.bot:process_farming:61 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: 'Bot' object has no attribute 'perform_farming_actions' | Stopped
+2024-11-10 22:21:54.829 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 22:24:54.391 | INFO     | __main__:process_farming:42 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-10 22:25:02.401 | INFO     | __main__:process_farming:46 - Active accounts: 1
+2024-11-10 22:25:02.401 | INFO     | core.bot:process_login:89 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 22:25:02.826 | INFO     | core.bot:process_login:92 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 22:25:02.826 | ERROR    | core.bot:process_farming:65 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-10 22:25:02.826 | INFO     | __main__:process_farming:53 - Active accounts: 0
+2024-11-10 22:28:37.328 | INFO     | __main__:run:115 - Loaded +- 4 proxies per account
+
+
+2024-11-10 22:28:40.329 | INFO     | __main__:process_multiple_farming:59 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 22:28:50.336 | INFO     | __main__:process_multiple_farming:63 - Active accounts: 1
+2024-11-10 22:28:50.336 | ERROR    | __main__:process_multiple_farming:68 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-10 22:28:50.336 | INFO     | __main__:process_multiple_farming:73 - Active accounts: 0
+2024-11-10 23:22:45.304 | ERROR    | core.auth:manual_login:111 - Authentication failed: Incorrect username or password
+2024-11-10 23:34:38.782 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-10 23:34:44.783 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-10 23:34:44.783 | INFO     | core.bot:process_login:89 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-10 23:34:45.284 | INFO     | core.bot:process_login:92 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-10 23:34:45.288 | ERROR    | core.bot:process_farming:65 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-10 23:34:45.288 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-10 23:36:12.482 | INFO     | __main__:process_registration:21 - Account: test@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-10 23:36:22.487 | INFO     | utils.imap_utils:check_if_email_valid:12 - Account: test@gmail.com | Checking if email is valid...
+2024-11-10 23:36:23.191 | ERROR    | utils.imap_utils:check_if_email_valid:17 - Account: test@gmail.com | Email is invalid (IMAP): Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+2024-11-10 23:36:23.191 | DEBUG    | utils.file_utils:export_results:37 - Results exported to results folder
+2024-11-11 00:10:46.925 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-11 00:10:54.925 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:10:54.925 | INFO     | core.bot:process_login:89 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:10:55.391 | INFO     | core.bot:process_login:92 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:10:55.393 | ERROR    | core.bot:process_farming:65 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:10:55.393 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:15:10.320 | INFO     | __main__:handle_interrupt:157 - Received interrupt signal. Cancelling tasks...
+2024-11-11 00:15:10.320 | DEBUG    | __main__:run:136 - An error occurred: 
+2024-11-11 00:15:10.322 | INFO     | core.auth:deactivate_session:39 - Successfully logged out
+2024-11-11 00:15:24.804 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-11 00:15:31.811 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:15:31.811 | INFO     | core.bot:process_login:89 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:15:32.274 | INFO     | core.bot:process_login:92 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:15:32.277 | ERROR    | core.bot:process_farming:65 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:15:32.277 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:25:36.947 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-11 00:25:36.948 | INFO     | core.auth:refresh_token:28 - Token refreshed successfully.
+2024-11-11 00:25:42.951 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:25:42.951 | INFO     | core.bot:process_login:89 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:25:43.441 | INFO     | core.bot:process_login:92 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:25:43.442 | ERROR    | core.bot:process_farming:65 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:25:43.442 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:32:00.439 | DEBUG    | __main__:<module>:172 - An error occurred: 'NoneType' object is not subscriptable
+2024-11-11 00:32:03.338 | INFO     | __main__:handle_interrupt:157 - Received interrupt signal. Cancelling tasks...
+2024-11-11 00:32:08.054 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 8 seconds before starting...
+2024-11-11 00:32:16.060 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:32:16.060 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:32:16.530 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:32:16.533 | ERROR    | core.bot:process_farming:60 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:32:16.533 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:33:30.393 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-11 00:33:39.400 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:33:39.401 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:33:39.867 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:33:39.869 | ERROR    | core.bot:process_farming:60 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:33:39.869 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:33:43.841 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-11 00:33:52.854 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:33:52.854 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:33:53.333 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:33:53.334 | ERROR    | core.bot:process_farming:60 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:33:53.334 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:34:08.381 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 00:34:11.396 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-11 00:34:18.405 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 00:34:18.405 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 00:34:18.405 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 00:38:01.294 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-11 00:38:08.306 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:38:08.306 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:38:08.793 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:38:08.795 | ERROR    | core.bot:process_farming:60 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:38:08.796 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:39:42.969 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-11 00:39:51.982 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:39:51.983 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:39:52.446 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:39:52.447 | ERROR    | core.bot:process_farming:60 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:39:52.448 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:47:55.925 | INFO     | __main__:process_export_statistics:80 - Account: vanhoanganh.24@gmail.com | Sleeping for 9 seconds before starting...
+2024-11-11 00:48:04.930 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:48:05.599 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:48:05.880 | SUCCESS  | core.bot:process_get_user_info:95 - Account: vanhoanganh.24@gmail.com | User info fetched
+2024-11-11 00:48:05.881 | DEBUG    | __main__:run:136 - An error occurred: [Errno 13] Permission denied: './results/statistics.csv'
+2024-11-11 00:48:05.881 | INFO     | core.auth:deactivate_session:39 - Successfully logged out
+2024-11-11 00:49:01.474 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 5 seconds before starting...
+2024-11-11 00:49:06.481 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:49:06.481 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:49:06.982 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:49:06.984 | ERROR    | core.bot:process_farming:60 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:49:06.986 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:51:43.252 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 00:51:46.259 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-11 00:51:56.287 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 00:51:56.287 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 00:51:56.287 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 00:52:44.621 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 5 seconds before starting...
+2024-11-11 00:52:49.646 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:52:49.646 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:52:50.091 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:52:50.091 | ERROR    | core.bot:process_farming:60 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:52:50.092 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:52:59.861 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 5 seconds before starting...
+2024-11-11 00:53:04.870 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 00:53:04.870 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 00:53:05.289 | INFO     | core.bot:process_login:86 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 00:53:05.292 | ERROR    | core.bot:process_farming:62 - Account: vanhoanganh.24@gmail.com | Unknown error while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 00:53:05.292 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 00:58:18.837 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 00:58:21.839 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-11 00:58:27.852 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 00:58:27.852 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 00:58:27.853 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 01:01:41.991 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 01:01:45.005 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-11 01:01:55.015 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 01:01:55.016 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 01:01:55.016 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 01:06:09.906 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 01:06:12.919 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-11 01:06:19.923 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 01:06:19.924 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 01:06:19.924 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 01:12:04.545 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-11 01:12:14.546 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 01:12:14.546 | INFO     | core.bot:process_login:82 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 01:12:14.954 | INFO     | core.bot:process_login:84 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 01:12:14.956 | ERROR    | core.bot:process_farming:60 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 01:12:14.956 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 01:20:17.208 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 01:20:20.216 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-11 01:20:30.219 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 01:20:30.219 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 01:20:30.220 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 01:20:51.800 | INFO     | __main__:process_farming:43 - Account: vanhoanganh.24@gmail.com | Sleeping for 10 seconds before starting...
+2024-11-11 01:21:01.808 | INFO     | __main__:process_farming:47 - Active accounts: 1
+2024-11-11 01:21:01.808 | INFO     | core.bot:process_login:88 - Account: vanhoanganh.24@gmail.com | Logging in... 
+2024-11-11 01:21:02.871 | INFO     | core.bot:process_login:90 - Account: vanhoanganh.24@gmail.com | Successfully logged in
+2024-11-11 01:21:02.874 | ERROR    | core.bot:process_farming:66 - Account: vanhoanganh.24@gmail.com | Unknown exception while farming: Expecting value: line 2 column 1 (char 1) | Stopped
+2024-11-11 01:21:02.874 | INFO     | __main__:process_farming:54 - Active accounts: 0
+2024-11-11 01:23:29.887 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 01:23:32.891 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 5 seconds before starting...
+2024-11-11 01:23:37.897 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 01:23:37.897 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 01:23:37.898 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 01:27:28.439 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 01:27:31.449 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 5 seconds before starting...
+2024-11-11 01:27:36.460 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 01:27:36.460 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 01:27:36.460 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 01:29:05.710 | INFO     | __main__:handle_interrupt:157 - Received interrupt signal. Cancelling tasks...
+2024-11-11 01:29:05.710 | DEBUG    | __main__:run:136 - An error occurred: 
+2024-11-11 01:29:05.710 | INFO     | core.auth:deactivate_session:39 - Successfully logged out
+2024-11-11 01:42:20.322 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 01:42:23.332 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 6 seconds before starting...
+2024-11-11 01:42:29.333 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 01:42:29.333 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 01:42:29.333 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
+2024-11-11 20:08:05.761 | INFO     | __main__:run:119 - Loaded +- 4 proxies per account
+
+
+2024-11-11 20:08:08.769 | INFO     | __main__:process_multiple_farming:60 - Account: vanhoanganh.24@gmail.com | Sleeping for 7 seconds before starting...
+2024-11-11 20:08:15.774 | INFO     | __main__:process_multiple_farming:64 - Active accounts: 1
+2024-11-11 20:08:15.774 | ERROR    | __main__:process_multiple_farming:69 - Account: vanhoanganh.24@gmail.com | An error occurred: 'MultipleAccount' object has no attribute 'proxy' | Stopped farming
+2024-11-11 20:08:15.774 | INFO     | __main__:process_multiple_farming:74 - Active accounts: 0
